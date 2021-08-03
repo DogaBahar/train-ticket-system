@@ -1,2 +1,2 @@
 # train-ticket-system
-Train ticket application w
+Train ticket application with Python Pyqt5
